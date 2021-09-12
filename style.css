@@ -9,7 +9,7 @@
     font-family: Helvetica, Arial, sans-serif;
   }
   
-  /* apply styles to <header> */
+  /* Header styles start*/
   header {
     padding: 20px 35px;
     background-color: #010f36;
@@ -41,6 +41,9 @@
     font-weight: lighter;
     font-size: 22px;
   }
+
+ /* Header styles end*/
+
   
   /* Hero Style Start */
   .hero {
@@ -53,6 +56,8 @@
   }
   /* Hero Style End */
   
+ /* Content Sections styles start*/
+
   .intro,.projects,.resume {
     text-align: center;
     background: #c9c9c9;
@@ -82,8 +87,11 @@
   .secondary-border {
     border-color: #c9c9c9;
   }
+
+ /* Content Sections styles start*/
+
   
-  /* REACH OUT STYLES START */
+  /* Contact Style Starts */
   .contact {
     text-align: center;
     background: #010f36;
@@ -116,3 +124,6 @@
     font-size: 20px;
     font-style: normal;
   }
+
+    /* Contact Style Ends */
+
