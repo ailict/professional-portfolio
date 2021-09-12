@@ -12,7 +12,7 @@
   /* apply styles to <header> */
   header {
     padding: 20px 35px;
-    background-color: #110b5c;
+    background-color: #010f36;
   }
   
   header h1 {
@@ -68,7 +68,7 @@
 
   .section-title {
     font-size: 55px;
-    color: #024e76;
+    color: #010f36;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
@@ -76,13 +76,13 @@
   }
   
   .primary-border {
-    border-color: #39a6b2;
+    border-color: #010f36;
   }
   
   /* REACH OUT STYLES START */
   .contact {
     text-align: center;
-    background: #024e76;
+    background: #010f36;
   }
   
   .contact h2 {
