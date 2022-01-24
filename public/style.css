@@ -47,7 +47,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url('./assets/actheadshot.jpg');
+    background-image: url('./images/actheadshot.jpg');
     height: 400px;
     background-size:contain;
     background-repeat: no-repeat;
