@@ -2,9 +2,9 @@ import React from "react";
 import "./App.css";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Nav from "./components/Header";
-import AboutMe from "./components/AboutMe";
-import Projects from "./components/Projects";
-import Resume from "./components/Resume";
+import AboutMe from "./components/about";
+import Projects from "./components/projects";
+import Resume from "./components/resume";
 import ReachOut from "./components/ReachOut";
 
 function App() {
