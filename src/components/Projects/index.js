@@ -9,7 +9,7 @@ function Projects() {
             <div class="flexbox-item flexbox-item-1">
                 <p> Run Buddy</p>
                 <a href="https://ailict.github.io/run-buddy/">
-                    <img src="../../../public/images/runbuddy.jpg">
+                    <img src="../../../public/images/runbuddy.jpg"></img>
                 </a>            
             </div>
 
